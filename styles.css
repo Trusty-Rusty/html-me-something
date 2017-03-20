@@ -1,0 +1,48 @@
+
+body {
+    background-image: url("https://img.clipartfest.com/648d6b645e3f749ac75b94808edadbf0_1000-images-about-hops-on-hop-flower-clipart_563-1024.gif");
+}
+
+h1 {
+    font-family: Courier;
+    margin: auto;
+    text-align: center;
+    border: 1px solid orange;
+    background-color: gray;
+}
+
+h2{
+    font-family: Courier;
+    margin: auto;
+    text-align: center;
+    background-color: gray;
+}
+
+#theykickedass {
+    color: #fffd04;
+    background-color: gray;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 14px;
+    border: 1px solid orange;
+    margin: 20px;
+    padding: 10px;
+    background-color: gray;
+}
+
+.subtitle {
+    font-weight: bold;
+    text-align: center;
+    margin: 10px;
+    border: none;
+    background-color: gray;
+}
+
+img {
+    border: 2px solid blue;
+    background-color: white;
+    width: 128px;
+    height: 210px;
+}
